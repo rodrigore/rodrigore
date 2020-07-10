@@ -10,7 +10,7 @@ Hello world 👋,
 
 I love to use my [mechanical keyboards](https://www.reddit.com/r/mechanicalkeyboards) with [vim/neovim](https://github.com/neovim/neovim) and [tmux](https://github.com/tmux/tmux) inside [kitty](https://sw.kovidgoyal.net/kitty/) to program nerdy things.
 
-Currently my favourite techs are [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [Vue](https://vuejs.org/), [Flutter](https://flutter.dev/), SwiftUI(https://developer.apple.com/xcode/swiftui/).
+Currently my favourite techs are [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [Vue](https://vuejs.org/), [Flutter](https://flutter.dev/), [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 ## Currently Playing ♬
 
